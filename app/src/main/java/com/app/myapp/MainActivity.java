@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView mTxtR;
     private ListView mListViewRegion;
+    private  int[] icons;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
